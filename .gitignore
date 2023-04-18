@@ -1,0 +1,13 @@
+log/
+idea
+.git/
+web/node_modules/
+web/yarn.lock
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+web/interface.http*
+web/src/setupProxy.js
+.DS_Store
+.vscode
+.idea
